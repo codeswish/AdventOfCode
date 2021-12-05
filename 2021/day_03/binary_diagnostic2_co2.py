@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
+<<<<<<< HEAD
 
 from collections import Counter
 
+=======
+>>>>>>> day_03
 left_right = [[], []]
 
 with open("input.txt", "r") as f:
